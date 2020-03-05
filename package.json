@@ -1,6 +1,6 @@
 {
-  "homepage" : "https://github.com/parkernielson/potential-dollop",
-  "name": "my-tutorial",
+  "homepage" : "http://parkernielson.github.io/potential-dollop",
+  "name": "potential-dollop",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
