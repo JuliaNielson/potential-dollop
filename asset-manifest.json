@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/potential-dollop/static/css/main.acb2ade7.chunk.css",
+    "main.js": "/potential-dollop/static/js/main.c243c3f9.chunk.js",
+    "main.js.map": "/potential-dollop/static/js/main.c243c3f9.chunk.js.map",
+    "runtime-main.js": "/potential-dollop/static/js/runtime-main.03cc921f.js",
+    "runtime-main.js.map": "/potential-dollop/static/js/runtime-main.03cc921f.js.map",
+    "static/js/2.477cc9ac.chunk.js": "/potential-dollop/static/js/2.477cc9ac.chunk.js",
+    "static/js/2.477cc9ac.chunk.js.map": "/potential-dollop/static/js/2.477cc9ac.chunk.js.map",
+    "index.html": "/potential-dollop/index.html",
+    "precache-manifest.acb09073fab8785172f06a71bc82637a.js": "/potential-dollop/precache-manifest.acb09073fab8785172f06a71bc82637a.js",
+    "service-worker.js": "/potential-dollop/service-worker.js",
+    "static/css/main.acb2ade7.chunk.css.map": "/potential-dollop/static/css/main.acb2ade7.chunk.css.map",
+    "static/js/2.477cc9ac.chunk.js.LICENSE.txt": "/potential-dollop/static/js/2.477cc9ac.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03cc921f.js",
+    "static/js/2.477cc9ac.chunk.js",
+    "static/css/main.acb2ade7.chunk.css",
+    "static/js/main.c243c3f9.chunk.js"
+  ]
+}
